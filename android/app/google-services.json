@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "746742996946",
+    "project_id": "sushi-toon",
+    "storage_bucket": "sushi-toon.appspot.com",
+    "firebase_url": "https://sushi-toon-default-rtdb.asia-southeast1.firebasedatabase.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746742996946:android:62b6d192c11ff21297f20b",
+        "android_client_info": {
+          "package_name": "com.example.miniproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746742996946-6i0far7n4sr9pk4k7hsb0mf66c9ptapm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARLXn1sf2yxQoN1bEumRK7Z9_Em_OtrFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746742996946-6i0far7n4sr9pk4k7hsb0mf66c9ptapm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
